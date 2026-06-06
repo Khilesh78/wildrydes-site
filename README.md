@@ -127,4 +127,8 @@ Here is the code used to test the Lambda function:
     "body": "{\"PickupLocation\":{\"Latitude\":47.6174755835663,\"Longitude\":-122.28837066650185}}"
 }
 ```
+The cloud Architecture is following:
+
+<img width="1024" height="568" alt="image" src="https://github.com/user-attachments/assets/2d0bbe7c-583a-4340-8c62-758d7df0c59a" />
+
 
